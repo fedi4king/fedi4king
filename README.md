@@ -87,6 +87,6 @@
 ![](https://komarev.com/ghpvc/?username=fedi4king&style=flat-square)
 
 <div align='center'>
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=fedi4king&theme=ambient_gradient&show_icons=true">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=fedi4king&layout=compact&langs_count=8&theme=ambient_gradient&show_icons=true">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=fedi4king&theme=dark&show_icons=true">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=fedi4king&layout=compact&langs_count=8&theme=dark">
 </div>
